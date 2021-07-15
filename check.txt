@@ -1,0 +1,5 @@
+first commit 
++ first commit msg
+
++ deleted some lines 
++ going to spauch this commit 
